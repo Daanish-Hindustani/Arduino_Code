@@ -1,1 +1,1 @@
-![Image Description](LED/stoplight/IMG_7400.jpeg)
+![Image Description](IMG_7400.jpeg)
